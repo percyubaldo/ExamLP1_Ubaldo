@@ -6,11 +6,6 @@ body{
     background-image: url("img/car.jpg");
 }
 
-@font-face {
-font-family: "Mystery Quest";
-src: url("mystery-quest.woff2");
-}
-
 #BIENVENIDA{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
     color: red;
@@ -41,6 +36,7 @@ ul li a:hover{
 nav{
     background-color: blue;
     width: 100%;
+    
     
 }
 .contenedor{
